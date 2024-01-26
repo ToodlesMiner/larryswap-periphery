@@ -15,3 +15,5 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+//got an error on @uniswap/v2-core/contracts/interfaces/IPancakeFactory.sol
